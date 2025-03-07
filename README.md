@@ -1,2 +1,2 @@
 # Login
-Registro de usuarios
+Registro de usuarios.
